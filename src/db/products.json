@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "image":"AIRMAXDN8.avif",
+    "name":"나이키 에어맥스 Dn8",
+    "price":239000
+  },
+  {
+    "id":2,
+    "image":"NIKEP6000PRM.avif",
+    "name":"나이키 P-6000 PRM",
+    "price":159000
+  },
+  {
+    "id":3,
+    "image":"NIKEREACTXREJUVEN8SLIDE.avif",
+    "name":"나이키 리액트X 리주버네이트",
+    "price":69000
+  },
+  {
+    "id":4,
+    "image":"NIKEC1TY.avif",
+    "name":"나이키 C1TY",
+    "price":129000
+  },
+  {
+    "id":5,
+    "image":"NIKESHOXTL.avif",
+    "name":"나이키 샥스 TL",
+    "price":209000
+  },
+  {
+    "id":6,
+    "image":"NIKECALMSANDAL.avif",
+    "name":"나이키 캄",
+    "price":99000
+  }
+]
